@@ -60,7 +60,7 @@ The Student Complaint Management System (SCMS) is a lightweight application for 
 
 ---
 
-## Database Schema (Simple)
+## Database Schema 
 
 ### students
 - id  
