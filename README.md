@@ -1,6 +1,7 @@
 # Student Complaint Management System
+A digital platform that allows students to submit complaints easily and track their status in real time. The system routes complaints to the correct department, enables admins to manage and resolve issues efficiently, and provides transparency through automated updates.
 
-A simple, easy-to-read Markdown document for a Student Complaint Management System (SCMS). This document provides an overview, features, modules, tech stack, database schema, usage, and author information.
+
 
 ---
 
